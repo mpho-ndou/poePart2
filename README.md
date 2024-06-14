@@ -1,4 +1,4 @@
-# poePart2
+# POE
 *Install visual Studio:
 
 Clone Repository: Clone or download the repository containing the RecipeApp.cs file.
